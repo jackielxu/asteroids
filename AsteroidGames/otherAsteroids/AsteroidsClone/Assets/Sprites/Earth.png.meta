@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: cc45ca9a09210654c9daa362d3ad6283
+timeCreated: 1427541189
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Earth_0
+    21300002: Earth_1
+    21300004: Earth_2
+    21300006: Earth_3
+    21300008: Earth_4
+    21300010: Earth_5
+    21300012: Earth_6
+    21300014: Earth_7
+    21300016: Earth_8
+    21300018: Earth_9
+    21300020: Earth_10
+    21300022: Earth_11
+    21300024: Earth_12
+    21300026: Earth_13
+    21300028: Earth_14
+    21300030: Earth_15
+    21300032: Earth_16
+    21300034: Earth_17
+    21300036: Earth_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Earth_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 199
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 199
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 199
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 199
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 199
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 135
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 135
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 135
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 135
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 71
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 71
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 71
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Earth_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

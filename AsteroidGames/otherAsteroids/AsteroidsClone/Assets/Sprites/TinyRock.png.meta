@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: a1fee1dbb965d1444afb4f45d873cd99
+timeCreated: 1427541927
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TinyRock_0
+    21300002: TinyRock_1
+    21300004: TinyRock_2
+    21300006: TinyRock_3
+    21300008: TinyRock_4
+    21300010: TinyRock_5
+    21300012: TinyRock_6
+    21300014: TinyRock_7
+    21300016: TinyRock_8
+    21300018: TinyRock_9
+    21300020: TinyRock_10
+    21300022: TinyRock_11
+    21300024: TinyRock_12
+    21300026: TinyRock_13
+    21300028: TinyRock_14
+    21300030: TinyRock_15
+    21300032: TinyRock_16
+    21300034: TinyRock_17
+    21300036: TinyRock_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 48
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: TinyRock_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 107
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 107
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 106
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 105
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 104
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 68
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 67
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 66
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 33
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 33
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 34
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 36
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 38
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 10
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 11
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TinyRock_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 11
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

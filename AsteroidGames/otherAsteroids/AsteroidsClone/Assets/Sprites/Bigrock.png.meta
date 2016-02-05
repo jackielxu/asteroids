@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: d01f9327dfea90347aa4e36667551c07
+timeCreated: 1427540986
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bigrock_0
+    21300002: Bigrock_1
+    21300004: Bigrock_2
+    21300006: Bigrock_3
+    21300008: Bigrock_4
+    21300010: Bigrock_5
+    21300012: Bigrock_6
+    21300014: Bigrock_7
+    21300016: Bigrock_8
+    21300018: Bigrock_9
+    21300020: Bigrock_10
+    21300022: Bigrock_11
+    21300024: Bigrock_12
+    21300026: Bigrock_13
+    21300028: Bigrock_14
+    21300030: Bigrock_15
+    21300032: Bigrock_16
+    21300034: Bigrock_17
+    21300036: Bigrock_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 48
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Bigrock_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 219
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 220
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 219
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 220
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 222
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 151
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 149
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 148
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 149
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 79
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 78
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 76
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 75
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 75
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bigrock_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

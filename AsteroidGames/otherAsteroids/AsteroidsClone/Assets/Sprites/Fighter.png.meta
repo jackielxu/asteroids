@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 88d8a09835ecd1641a336afdb05a0fb6
+timeCreated: 1427542222
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fighter_0
+    21300002: Fighter_1
+    21300004: Fighter_2
+    21300006: Fighter_3
+    21300008: Fighter_4
+    21300010: Fighter_5
+    21300012: Fighter_6
+    21300014: Fighter_7
+    21300016: Fighter_8
+    21300018: Fighter_9
+    21300020: Fighter_10
+    21300022: Fighter_11
+    21300024: Fighter_12
+    21300026: Fighter_13
+    21300028: Fighter_14
+    21300030: Fighter_15
+    21300032: Fighter_16
+    21300034: Fighter_17
+    21300036: Fighter_18
+    21300038: Fighter_19
+    21300040: Fighter_20
+    21300042: Fighter_21
+    21300044: Fighter_22
+    21300046: Fighter_23
+    21300048: Fighter_24
+    21300050: Fighter_25
+    21300052: Fighter_26
+    21300054: Fighter_27
+    21300056: Fighter_28
+    21300058: Fighter_29
+    21300060: Fighter_30
+    21300062: Fighter_31
+    21300064: Fighter_32
+    21300066: Fighter_33
+    21300068: Fighter_34
+    21300070: Fighter_35
+    21300072: Fighter_36
+    21300074: Fighter_37
+    21300076: Fighter_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Fighter_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 227
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 227
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 227
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 227
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 227
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 195
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 194
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 194
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 194
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 193
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 161
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 161
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 161
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 162
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 162
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 130
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 131
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 131
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 131
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 132
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 99
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 99
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 98
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 65
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 65
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 65
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 65
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 34
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 34
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 35
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 35
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
